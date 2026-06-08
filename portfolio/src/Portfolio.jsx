@@ -426,7 +426,6 @@ function Hero() {
   const typed = useTypewriter(["Full Stack Developer", "MERN Specialist", "React Engineer", "API Architect", "Open to Freelance"]);
 
   const handleDownloadResume = () => {
-    // Opens your Google Drive resume in a new tab
     window.open(RESUME_DRIVE_LINK, "_blank");
   };
 
