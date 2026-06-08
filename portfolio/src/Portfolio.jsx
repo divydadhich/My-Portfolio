@@ -213,9 +213,6 @@ const SERVICES = [
   { icon: "🔍", title: "Code Review & Refactor", desc: "Clean up legacy codebases, improve performance, add TypeScript, or modernize architecture." },
 ];
 
-/* ─── RESUME LINK — Replace with your actual Google Drive PDF link ─── */
-// Upload your resume PDF to Google Drive → Share → "Anyone with link" → copy link
-// Replace the URL below with your actual Google Drive link
 const RESUME_DRIVE_LINK = "https://drive.google.com/file/d/1QZu4nTiFMSw9tXPvvIjP-ZEGJWJq_g2A/view?usp=sharing";
 
 /* ─── CUSTOM HOOKS ─── */
